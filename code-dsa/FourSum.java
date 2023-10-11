@@ -1,0 +1,6 @@
+/**
+ * FourSum
+ */
+public class FourSum {
+
+}
