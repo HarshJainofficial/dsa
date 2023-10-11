@@ -7,7 +7,7 @@ public class two_sum {
     public static void main(String[] args) {
         int[] nums = { 2, 7, 11, 15 };
         int target = 13;
-        System.out.println(Arrays.toString(sum(nums, target)));
+        System.out.println("This is answer" + Arrays.toString(sum(nums, target)));
     }
 
     /* Two Pointer Approach for TWO SUM */
